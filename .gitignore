@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+.env
+*.pyc
+test_*.py
+data_collection.py
